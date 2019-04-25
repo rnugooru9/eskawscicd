@@ -1,6 +1,5 @@
-<h1> Hello, Welcome to Valaxy Technologies !! </h1>
-<h2> AWS & DevOps training </h2>
-<h2> Happy learning </h2>
-<h2> Contact us on +91-9642-858583 </h2>
-<h2> Please subscribe to Valaxy Technologes Channel </h2>
-<h2> thanks for following us </h2>
+<h1> eSkribe AWS CI/CD POC !! </h1>
+<h2> AWS & CI/CD POC </h2>
+<h2> Hello Nugets </h2>
+<h2> Contact us on 614-373-5738 </h2>
+<h2> thanks for following us - eskaws </h2>
