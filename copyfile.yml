@@ -1,0 +1,8 @@
+---
+- hosts: web_hosts
+  become: true
+  tasks:
+    - name: copy war onto tomcat server
+      copy:
+        src: /opt/playbooks/webapp/target/webapp.war
+        dest: /opt/bitnami/apache-tomcat/webapps
